@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.autoComplete.extraPaths": [
+			"lib"
+		],
+		"python.analysis.extraPaths": [
+			"lib"
+		]
+	}
+}
